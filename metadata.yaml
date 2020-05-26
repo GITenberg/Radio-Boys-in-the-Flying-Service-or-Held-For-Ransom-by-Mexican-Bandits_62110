@@ -1,11 +1,16 @@
 _repo: Radio-Boys-in-the-Flying-Service-or-Held-For-Ransom-by-Mexican-Bandits_62110
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62110-h/images/cover.jpg
 creator:
   author:
     agent_name: Duffield, J. W.
     gutenberg_agent_id: '4685'
     url: http://www.gutenberg.org/2009/agents/4685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62110#Radio-Boys-in-the-Flying-Service-or-Held-For-Ransom-by-Mexican-Bandits
 gutenberg_issued: '2020-05-13'
 gutenberg_type: Text
 identifiers:
