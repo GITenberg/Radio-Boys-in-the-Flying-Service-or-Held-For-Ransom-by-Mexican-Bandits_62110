@@ -1,0 +1,23 @@
+_repo: Radio-Boys-in-the-Flying-Service-or-Held-For-Ransom-by-Mexican-Bandits_62110
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duffield, J. W.
+    gutenberg_agent_id: '4685'
+    url: http://www.gutenberg.org/2009/agents/4685
+description: ''
+gutenberg_issued: '2020-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Radio Boys in the Flying Service; or, Held For Ransom by Mexican Bandits
+url: http://www.gutenberg.org/ebooks/62110
